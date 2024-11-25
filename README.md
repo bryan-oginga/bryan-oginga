@@ -3,7 +3,7 @@
 🌟 **Python/Django & React Developer | Technical Writer | Content Creator**  
 🚀 Passionate about building robust APIs, integrating payment systems, and delivering SMS/USSD solutions.  
 
-📹 Sharing my journey on [YouTube](https://www.youtube.com/@brian_oginga) | ✍️ Writing technical content to empower developers.  
+📹 Sharing my journey on [YouTube](https://www.youtube.com/@brian_oginga) | ✍️ Writing technical content to empower developers .  
 
 ---
 
@@ -26,14 +26,13 @@
 
 ## 📖 Currently Reading  
 - *Atomic Habits* by James Clear 📘  
-- *Your next book recommendation here...*
 
 ---
 
 ---
 
 ## 📖 Currently Leaning  
-- React Nativer 📘  
+- React Native 📘  
 
 ---
 

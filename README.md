@@ -1,9 +1,10 @@
-# 👋 Hi there, I'm [Bryan]!  
+# 👋 Hi there, I'm Bryan!  
 
 🌟 **Python/Django & React Developer | Technical Writer | Content Creator**  
 🚀 Passionate about building robust APIs, integrating payment systems, and delivering SMS/USSD solutions.  
 
-📹 Sharing my journey on [YouTube](https://www.youtube.com/@brian_oginga) | ✍️ Writing technical content to empower developers .  
+📹 Sharing my journey on [YouTube](https://www.youtube.com/@brian_oginga) | ✍️ Writing technical content to empower developers at [![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat)](https://brianoginga.com)  
+ .  
 
 ---
 
@@ -19,8 +20,8 @@
 ---
 
 ## 📈 GitHub Stats  
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bryan-oginga&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-oginga&layout=compact&theme=radical)
 
 ---
 

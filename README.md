@@ -3,7 +3,7 @@
 🌟 **Python/Django & React Developer | Technical Writer | Content Creator**  
 🚀 Passionate about building robust APIs, integrating payment systems, and delivering SMS/USSD solutions.  
 
-📹 Sharing my journey on [YouTube](https://www.youtube.com/@brian_oginga) | ✍️ Writing technical content to empower developers through 🌐 [My blog](https://www.brianoginga.com/)
+📹 Sharing my journey on [YouTube](https://www.youtube.com/@brian_oginga) | ✍️ Writing technical content to empower developers through 🌐 [My blog](https://www.brianoginga.com/blog/)
  .  
 
 ---
